@@ -1,0 +1,5 @@
+Input:
+"Artificial Intelligence is transforming industries by automating complex tasks and improving efficiency."
+
+Output:
+"AI automates tasks and improves efficiency across industries."
